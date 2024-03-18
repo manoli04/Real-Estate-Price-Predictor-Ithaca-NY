@@ -3,7 +3,7 @@ Authors:
 Marc Davila (md934)
 Manoli Lambrakis (el668)
 
-Class Code: 4741
+Class Code: ORIE 4741
 
 Problem:
 
